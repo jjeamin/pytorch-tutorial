@@ -1,13 +1,4 @@
-<p align="center"><img width="40%" src="logo/pytorch_logo_2018.svg" /></p>
-
---------------------------------------------------------------------------------
-
-This repository provides tutorial code for deep learning researchers to learn [PyTorch](https://github.com/pytorch/pytorch). In the tutorial, most of the models were implemented with less than 30 lines of code. Before starting this tutorial, it is recommended to finish [Official Pytorch Tutorial](http://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html).
-
-
-<br/>
-
-## Table of Contents
+Original : [Here](https://github.com/yunjey/pytorch-tutorial)
 
 #### 1. Basics
 * [PyTorch Basics](https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/01-basics/pytorch_basics/main.py)
@@ -32,26 +23,4 @@ This repository provides tutorial code for deep learning researchers to learn [P
 * [TensorBoard in PyTorch](https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/04-utils/tensorboard)
 
 
-
-<br/>
-
-## Getting Started
-```bash
-$ git clone https://github.com/yunjey/pytorch-tutorial.git
-$ cd pytorch-tutorial/tutorials/PATH_TO_PROJECT
-$ python main.py
-```
-
-<br/>
-
-## Dependencies
-* [Python 2.7 or 3.5+](https://www.continuum.io/downloads)
-* [PyTorch 0.4.0+](http://pytorch.org/)
-
-
-
-<br/>
-
-
-## Author
-Yunjey Choi/ [@yunjey](https://github.com/yunjey)
+직접 실행을 해보면서 jupyter notebook을 이용해 조금더 보기 쉽게 만들었습니다.
